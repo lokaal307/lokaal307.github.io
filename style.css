@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+}
+
+header {
+    background-color: green;
+
+    width: 600px;
+    height: 150px;
+
+    padding-left: 20px;
+
+    border: double red 4px;
+
+    margin-bottom: 25px;
+    margin-left: 50px;
+}
+
+nav {
+    background-color: blue;
+}
+
+article {
+    background-color: brown;
+}
+
+footer {
+    background-color: yellow;
+}
+
+
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+h1 {
+    color: violet;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    color: gold;
+}
+
+#belangrijk {
+    color: blue;
+}
+
+#anders {
+    color: red
+}
+
+.green {
+    color: green;
+}
